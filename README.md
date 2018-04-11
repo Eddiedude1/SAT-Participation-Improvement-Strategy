@@ -1,5 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Testing, Statistical Summaries and Inference
 
+
+Project Presentation [SAT Participation Improvement Strategy] https://docs.google.com/presentation/d/1Y73LN9U0lKQt-TulWf3METRYkPYvpJK7kbJMsUJQ3Qw/edit?usp=sharing
 ### Overview
 
 This week in class we went over some basic statistics, learned some Python programming concepts, and also learned how to navigate files, packages, and libraries using the command line. Great start! At this point you should be champing at the bit to _do some Data Science_. If so, good - because it's time for Project 1!
