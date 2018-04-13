@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Testing, Statistical Summaries and Inference
 
 ### Overview
@@ -115,3 +116,7 @@ As a best practice, consider the following points when preparing your project.
   - Were your recommendations data-driven and based on the results of your work?
 
 Your final assessment ("grade" if you will) will be calculated based on a [topical rubric](https://docs.google.com/spreadsheets/d/19k8OZ42xzr7v9GDv2IUyD175yGjJlwTNokcufwX9Ago/edit?usp=sharing).  For each category, you will receive a score of 0-3.  From the [rubric](https://docs.google.com/spreadsheets/d/19k8OZ42xzr7v9GDv2IUyD175yGjJlwTNokcufwX9Ago/edit?usp=sharing) you can see descriptions of each score and what is needed to attain those scores.
+=======
+# SAT-Participation-Improvement-Strategy
+General Assembly Project 1 (week 2)
+>>>>>>> 0e1146488a6698c70f0d2e3de4e501891c4b51e5
